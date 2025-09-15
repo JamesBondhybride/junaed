@@ -95,7 +95,7 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019){" "}
+                    Intern at Deliveroo Startups (2019){" "}
                   </h4>
                   <p>
                     Assisted in building front-end components and integration
